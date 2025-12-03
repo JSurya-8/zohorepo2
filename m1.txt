@@ -1,2 +1,2 @@
 Sample text
-updated in intellij
+updated in intellij ide
